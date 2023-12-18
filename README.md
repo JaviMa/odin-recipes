@@ -1,5 +1,4 @@
 # odin-recipes
 
-If you are reading this file pwehaps you are wondering "What kind of Website is this?", this will be my first oficial website using only "HTML code" by The Odin Project course, which it has been really interesting and I've learned many new tools that improve my knowledge about code's world, clearly I have a long path to continue but IM EJOING THE PROCES.
 
-Backing to the contet about this "website" 
+If you are reading this file, perhaps you are wondering, "What kind of website is this?" This will be my first official website created using only HTML code as part of The Odin Project course. The experience has been truly interesting, and I've acquired new tools that enhance my understanding of the coding world. Clearly, I have a long journey ahead, but I am enjoying the process.
